@@ -12,7 +12,7 @@
 - berisi handler untuk request HTTP
 - **contoh file:** `userController.js`
 
-### 3. `middleware/` -> kustom middleware
+### 3. `middlewares/` -> kustom middleware
 
 - untuk logging, error handling
 - **contoh file:** `errorHandler.js`
